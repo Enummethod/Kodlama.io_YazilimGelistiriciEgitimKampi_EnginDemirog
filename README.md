@@ -1,4 +1,4 @@
-# Kodlama.io Yazılım Geliştirici Eğitim Kampı (Engin Demirog)
+# Kodlama.io Yazılım Geliştirici Eğitim Kampı (Engin Demiroğ)
 
 
 
