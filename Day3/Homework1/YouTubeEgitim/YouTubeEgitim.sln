@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeEgitim", "YouTubeEgitim\YouTubeEgitim.csproj", "{4B2A7C8D-070F-44CD-937A-18C79F87620F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2A7C8D-070F-44CD-937A-18C79F87620F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2A7C8D-070F-44CD-937A-18C79F87620F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2A7C8D-070F-44CD-937A-18C79F87620F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2A7C8D-070F-44CD-937A-18C79F87620F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2519C796-9642-4256-8602-B0D7991D2F8F}
+	EndGlobalSection
+EndGlobal

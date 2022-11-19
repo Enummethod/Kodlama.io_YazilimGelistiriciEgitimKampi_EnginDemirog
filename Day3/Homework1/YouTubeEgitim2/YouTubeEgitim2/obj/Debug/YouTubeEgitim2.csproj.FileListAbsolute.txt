@@ -1,0 +1,8 @@
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\bin\Debug\YouTubeEgitim2.exe.config
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\bin\Debug\YouTubeEgitim2.exe
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\bin\Debug\YouTubeEgitim2.pdb
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\obj\Debug\YouTubeEgitim2.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\obj\Debug\YouTubeEgitim2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\obj\Debug\YouTubeEgitim2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\obj\Debug\YouTubeEgitim2.exe
+C:\Users\Ahmet\source\repos\YouTubeEgitim2\YouTubeEgitim2\obj\Debug\YouTubeEgitim2.pdb
