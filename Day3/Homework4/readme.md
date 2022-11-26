@@ -1,4 +1,3 @@
-# HOMEWORK 4
 ![202769963-219e2b74-552b-4253-96e1-fba61f028e47](https://user-images.githubusercontent.com/80968031/203848851-06950ef3-83fc-44a3-b515-6e0976c19c7b.png)
 
  ## YAZILAR
