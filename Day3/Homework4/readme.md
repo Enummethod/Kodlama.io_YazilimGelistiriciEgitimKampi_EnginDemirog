@@ -3,5 +3,5 @@
 
  ## YAZILAR
  
- [Değer ve Referans Tip](https://medium.com/@mustafayasardv/değer-ve-referance-tipler-ca2c0be5c51f)
- 
+ [Değer ve Referans Tip](https://medium.com/@mustafayasardv/değer-ve-referance-tipler-ca2c0be5c51f)   
+ [Interface'ler](https://medium.com/@mustafayasardv/interfaces-aray%C3%BCzler-da143a9c7922)
